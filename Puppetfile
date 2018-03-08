@@ -3,8 +3,8 @@ forge "https://forge.puppet.com"
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
 #mod "puppetlabs/inifile",     '1.5.0'
-mod "puppetlabs/stdlib",      'latest'
-mod "puppetlabs/concat",      'latest'
+mod "puppetlabs/stdlib"
+mod "puppetlabs/concat"
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
